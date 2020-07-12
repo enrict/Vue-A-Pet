@@ -1,24 +1,9 @@
-# adopt-animals
+# Vue-a-Pet
 
-## Project setup
-```
-npm install
-```
+## About
+This project is about a small system that allows for the view of pet categories (cats & dogs).
+The Cats page displays all the available cats. The Dogs page displays all the available dogs.
+The Pet page displays the information of a selected pet.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+This small system consists of Vuex and Vue-Router.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
